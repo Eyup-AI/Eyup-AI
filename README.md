@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eyup</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Eyup</h1>
 <h4 align="center">AI Solutions Engineer | Architecting Intelligent Automations & Apps | Building Systems that Scale Businesses 🚀</h4>
 
 <p align="center">
