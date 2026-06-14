@@ -44,13 +44,17 @@ My primary focus is designing scalable workflow architectures using **n8n**, **A
 ### 🌐 Connect with Me
 
 <p align="left">
-<a href="mailto:eyupst@proton.me" target="blank">
-<img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/proton-mail-icon.png" alt="proton" height="30" width="40" />
-</a>
+  <a href="mailto:eyupst@proton.me" target="blank">
+    <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/proton-mail-icon.png" alt="proton" height="30" width="40" />
+  </a>
 
-<a href="https://www.linkedin.com/in/ey%C3%BCp-selim-t/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/ey%C3%BCp-selim-t/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+
+  <a href="https://www.upwork.com/freelancers/~01bd0c699cab012207" target="blank">
+    <img align="center" src="https://www.svgrepo.com/show/331630/upwork.svg" alt="upwork" height="50" width="40" />
+  </a>
 </p>
 
 ---
